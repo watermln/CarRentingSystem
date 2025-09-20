@@ -98,10 +98,3 @@ For planned features and development roadmap, see [ROADMAP.md](./ROADMAP.md).
 ## Contributing
 
 See [DEVELOPER_GUIDE.md](./DEVELOPER_GUIDE.md) for contributing guidelines.
-
-## Acknowledgments
-
-- MongoDB team for the excellent NoSQL database
-- Java RMI framework for distributed computing capabilities
-- Swing framework for GUI development
-- GSON library for JSON processing
